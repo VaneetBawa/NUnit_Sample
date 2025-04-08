@@ -31,7 +31,7 @@ public class LambdaTestSetup
                 {
                     { "name", testName },
                     { "build", buildName },
-                    { "platform", "Windows 10" },
+                    { "platform", "macOS Sonoma" },
                     { "user", user },
                     { "accessKey", accessKey }
                 }
